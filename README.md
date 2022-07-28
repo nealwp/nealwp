@@ -1,5 +1,5 @@
 # Hi there, I'm Preston 👋
-## About:
+
 <!--
 **nealwp/nealwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +12,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-I'm a creative problem-solver, and I approach everything with an eye for continuous improvement. I have a passion for digging into complex problems and finding efficient solutions. My approach to software engineering is to strive for that perfect balance between 1) Delivering value to the customer at a constant, sustainable pace, and 2) Building a maintainable, scalable developer environment through continuous attention to technical excellence and good design, i.e. writing clean code. I'm always open for conversation, and I'd love to chat about the challenges and problems that you and your team may be facing.
+Two questions:
 
-I'm an accomplished software engineer and technologist with a database and system administration background. Currently building applications leveraging Angular, Vue, Node.js, MySQL, PostgreSQL, and MongoDB. I'm well-versed in building systems with cloud architecture, predominantly Amazon Web Services (AWS). I'm highly proficient with Linux operating systems (RHEL/Ubuntu) and relational database management systems (RDBMS). Experienced in establishing and maintaining Continuous Integration/Continuous Deployment (CI/CD) pipelines, as well as Git/GitHub/GitLab and source control. I have diverse industry experience including aerospace, logistics, defense, HR, and finance. 
+:point_right: **What are you working on, and how can I help?**
+
+If an answer springs to mind, [**let's start a conversation.**](mailto:wprestonneal@outlook.com?subject=Found%20you%20on%20GitHub&body=Hi%20Preston!%0D%0A%0D%0AJust%20came%20across%20your%20GitHub!%20Wanted%20to%20chat%20with%20you%20about%20[insert%20interest/problem/project%20here].%20When%20is%20a%20good%20time%20for%20you?%0D%0A%0D%0AThanks!%0D%0A[your%20name%20here])
+
+## About:
+
+I'm passionate about writing code, but what really lights my fire is **building solutions** :fire:
+
+I'd love to chat with you about the challenges that you or your team may be facing, 
+
+My approach to software engineering is to strike a balance between:
+
+- Delivering value to the customer at a constant, sustainable pace
+- Fostering a great dev environment through good design 
+
+
+I'm an accomplished software engineer and technologist with a database and system administration background. I'm well-versed in building systems with cloud architecture. I'm highly proficient with Linux operating systems (RHEL/Ubuntu) and relational database management systems (RDBMS). 
+
+I'm experienced in establishing and maintaining Continuous Integration/Continuous Deployment (CI/CD) pipelines, as well as Git/GitHub/GitLab and source control. I have diverse industry experience including aerospace, logistics, defense, HR, and finance. 
 
 ## 📫 How to reach me:
 - [**W Preston Neal**](https://www.linkedin.com/in/w-preston-neal/) on **LinkedIn**
@@ -32,15 +50,10 @@ I'm an accomplished software engineer and technologist with a database and syste
 ## 👨‍💻 Here's the tech that I know:
 
 ## Languages
-:white_check_mark: JavaScript</br>
-:white_check_mark: Python</br>
-:white_check_mark: HTML & CSS</br>
-:white_check_mark: SQL / T-SQL</br>
-:white_check_mark: Bash Scripting</br>
-:white_check_mark: Powershell Scripting</br>
-:white_check_mark: C / C++</br>
-:white_check_mark: Java</br>
-:white_check_mark: Visual Basic for Applications (Excel / Access)</br>
+||||||
+|-|-|-|-|-|
+|JavaScript|Python|SQL / T-SQL|HTML & CSS|Java|
+|Bash Scripting|Powershell Scripting|C / C++|VBA|-|
 
 ## Cloud
 :arrow_right: Amazon Web Services</br>
