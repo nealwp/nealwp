@@ -20,7 +20,7 @@ If an answer springs to mind, [**let's start a conversation.**](mailto:wprestonn
 
 ## About:
 
-I'm passionate about writing code, but what really lights my fire is **building solutions** :fire:
+I'm passionate about writing code, but what really lights my fire is **building solutions**:fire:
 
 I'd love to chat with you about the challenges that you or your team may be facing, 
 
