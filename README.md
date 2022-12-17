@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+*Software Engineer @ [EDF Renewables](https://www.edf-re.com/)*
+
 Two questions:
 
 :point_right: **What are you working on, and how can I help?** :point_left:
@@ -30,65 +32,25 @@ My approach to software engineering is to strike a balance between:
 - Fostering a great developer environment 
 
 
-I'm an accomplished software engineer and technologist with a database and system administration background. I'm well-versed in building systems with cloud architecture. I'm highly proficient with Linux operating systems (RHEL/Ubuntu) and relational database management systems (RDBMS). 
+I'm an accomplished software engineer and technologist with a database and system administration background. I'm well-versed in building systems with cloud architecture. I'm highly proficient with Linux operating systems and relational databases. 
 
-I'm experienced in establishing and maintaining Continuous Integration/Continuous Deployment (CI/CD) pipelines, as well as Git/GitHub/GitLab and source control. I have diverse industry experience including aerospace, logistics, defense, HR, and finance. 
+I'm experienced in establishing and maintaining CI/CD pipelines, as well as Git/GitHub/GitLab and source control. I have diverse industry experience including aerospace, logistics, defense, HR, finance, and renewable energy. 
 
 ## 📫 How to reach me:
 - [**W Preston Neal**](https://www.linkedin.com/in/w-preston-neal/) on **LinkedIn**
 - [**nealwp2**](https://twitter.com/nealwp2) lurking on **Twitter** 
 - Or just [**send me an email**](mailto:wprestonneal@outlook.com) :v:
 
-## 🛠️ Currently building with:
+## 🛠️ Currently working with:
+:eight_spoked_asterisk: TypeScript</br>
 :eight_spoked_asterisk: Angular</br>
-:eight_spoked_asterisk: Vue.js</br>
-:eight_spoked_asterisk: Node.js / Express</br>
-:eight_spoked_asterisk: AWS</br>
+:eight_spoked_asterisk: C#</br>
+:eight_spoked_asterisk: Node.js</br>
+:eight_spoked_asterisk: Google Cloud</br>
 :eight_spoked_asterisk: PostgreSQL</br>
-:eight_spoked_asterisk: MongoDB</br>
 
-## 👨‍💻 Here's the tech that I know:
-
-## Languages
-||||||
-|-|-|-|-|-|
-|JavaScript|Python|SQL / T-SQL|HTML & CSS|Java|
-|Bash Scripting|Powershell Scripting|C / C++|VBA|-|
-
-## Cloud
-:arrow_right: Amazon Web Services</br>
-:arrow_right: Linode</br>
-
-## Frameworks & Web Servers
-:white_check_mark: Node / ExpressJS</br>
-:white_check_mark: Vue.js</br>
-:white_check_mark: Angular</br> 
-:white_check_mark: Nginx</br>
-:white_check_mark: Apache Web Server</br>
-
-## Databases
-:arrow_right: PostgreSQL</br>
-:arrow_right: MySQL</br>
-:arrow_right: SQL Server</br>
-:arrow_right: SAP / Sybase ASE</br>
-:arrow_right: SQLite</br>
-:arrow_right: MongoDB & AWS DocumentDB</br>
-
-## Operating Systems
-:white_check_mark: Windows</br>
-:white_check_mark: RedHat Enterprise Linux</br>
-:white_check_mark: Ubuntu Linux</br>
- 
-## Tools
-:arrow_right: Git</br>
-:arrow_right: GitHub, GitLab</br>
-:arrow_right: MS Excel & Google Sheets</br>
-:arrow_right: PuTTY</br>
-:arrow_right: Docker</br>
-:arrow_right: VS Code</br>
-:arrow_right: MS Access</br>
-
-## Certs and Other Stuff
+## Certs and Stuff
+- AWS Certified Cloud Practitioner
 - CompTIA Security+ and DoD IA Level II certified
 - Microsoft Professional Program in Data Analysis
 - DoD Secret Security Clearance
