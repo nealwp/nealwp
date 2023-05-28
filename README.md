@@ -57,4 +57,5 @@ I'm experienced in establishing and maintaining CI/CD pipelines, as well as Git/
 - United States Marine Corps Veteran
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=nealwp&show_icons=true&theme=algolia)](https://github.com/nealwp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nealwp)](https://github.com/nealwp/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nealwp&layout=donut-vertical&theme=algolia)](https://github.com/nealwp/github-readme-stats)
