@@ -1,0 +1,4 @@
+#!/bin/bash
+
+curl -s "https://api.github.com/users/nealwp/repos" | grep -o 'git@[^"]*'
+#curl -s "https://api.github.com/users/nealwp/repos" | grep -o 'git@[^"]*' | xargs -L1 git -C ~/source/personal clone
